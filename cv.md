@@ -16,7 +16,23 @@ At the moment, my goal is to learn a programming language for mobile development
 
 # Experience
 
+08.2019 - present, Kuban Kredit, business analyst:
 
+* preparation of technical specifications for developers
+* testing the developed functions
+* Development of printed forms
+
+06.2017- 08.2019 - Magnit, middle business analyst:
+ * reporting development
+ * Maintenance of reports
+ * Preparing analytics for management
+ * making sales forecasts
+ * preparation of technical specifications for developers
+
+11.2015 - 06.2017 - Magnit, analyst:
+* Preparing analytics for management
+* making sales forecasts 
+* analysis of the reasons for forecast rejection
 
 # Education
 
