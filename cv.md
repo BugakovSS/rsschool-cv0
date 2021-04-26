@@ -35,7 +35,6 @@ At the moment, my goal is to learn a programming language for mobile development
 * analysis of the reasons for forecast rejection
 
 # Education
-
 09.2010 - 08.2014 - Kuban State University, Bachelor of Business Informatics
 09.2014 - 08.2016 - Kuban State University, Master of Business Informatics
  
